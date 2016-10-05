@@ -9,8 +9,6 @@ permalink: >
   http://www.umw.edu/president/presidential-committees/veteran-affairs-committee/
 published: true
 ---
-<strong>Veteran Affairs Committee</strong>
-
 <strong>Committee Charge</strong>
 
 The Veteran Affairs Committee is charged with advising the President and the Cabinet on programs and policies to support student veterans at the University of Mary Washington. The Veteran Affairs Committee will assess campus programs and policies, addressing issues where possible and making recommendations for improvements to University leadership. Second, the committee will function as an advisory body to University leadership on matters affecting veterans.
