@@ -27,3 +27,10 @@ The committee consists of the following members:
  	<li>Kimberley Buster-Williams, Associate Provost for Enrollment Management</li>
 </ul>
 <a href="https://www.umw.edu/president/presidential-committees/cabinet/historical-minutes/">President’s Cabinet Meeting Agendas and Minutes</a>
+
+&nbsp;
+<ul>
+ 	<li>Meeting Agendas</li>
+ 	<li>Historical Minutes</li>
+</ul>
+&nbsp;
