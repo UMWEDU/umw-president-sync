@@ -26,9 +26,9 @@ The committee consists of the following members:
  	<li>Martin A. Wilder, Jr., Chief of Staff</li>
  	<li>Kimberley Buster-Williams, Associate Provost for Enrollment Management</li>
 </ul>
-<h3><a href="https://www.umw.edu/president/presidential-committees/cabinet/historical-minutes/">President’s Cabinet Meeting Agendas and Minutes</a></h3>
+<a href="https://www.umw.edu/president/presidential-committees/cabinet/historical-minutes/">President’s Cabinet Meeting Agendas and Minutes</a>
 <ul>
- 	<li>Meeting Agendas</li>
- 	<li>Historical Minutes</li>
+ 	<li><a href="https://www.umw.edu/president/presidential-committees/cabinet/presidents-cabinet-meeting-agendas/">Meeting Agendas</a></li>
+ 	<li><a href="https://www.umw.edu/president/presidential-committees/cabinet/historical-minutes/">Historical Minutes</a></li>
 </ul>
 &nbsp;
