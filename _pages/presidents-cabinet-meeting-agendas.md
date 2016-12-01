@@ -10,3 +10,7 @@ permalink: >
 published: true
 ---
 The anticipated agenda for meetings of the President’s Cabinet is provided to keep the UMW community apprised of topics that are under consideration.  These meetings are not subject to the open meeting requirements of the Virginia Freedom of Information Act.  If you have input on a topic that is being discussed, please convey your ideas through your direct supervisor to your appropriate Vice President. We value your opinion!
+
+2016  President's Cabinet Meeting Agendas
+
+<a href="http://www.umw.edu/president/wp-content/uploads/sites/37/2016/12/Presidents-Cabinet-Meeting-Agenda-November-30-2016.pdf">November 30, 2016</a>
