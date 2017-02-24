@@ -6,7 +6,7 @@ post_date: 2016-12-01 10:45:40
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/president/presidential-committees/cabinet/presidents-cabinet-meeting-agendas/
+  https://www.umw.edu/president/presidential-committees/cabinet/presidents-cabinet-meeting-agendas/
 published: true
 yst_prominent_words_version:
   - "1"
