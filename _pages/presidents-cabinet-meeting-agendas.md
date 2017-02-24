@@ -6,7 +6,7 @@ post_date: 2016-12-01 10:45:40
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/president/presidential-committees/cabinet/presidents-cabinet-meeting-agendas/
+  http://www.umw.edu/president/presidential-committees/cabinet/presidents-cabinet-meeting-agendas/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -18,4 +18,5 @@ The anticipated agenda for meetings of the President’s Cabinet is provided to 
  	<li><a href="http://www.umw.edu/president/wp-content/uploads/sites/37/2016/12/Presidents-Cabinet-Meeting-Agenda-December-14-2016.pdf">December 14, 2016</a></li>
  	<li><a href="http://www.umw.edu/president/wp-content/uploads/sites/37/2016/12/Presidents-Cabinet-Meeting-Agenda-January-11-2017.pdf">January 11, 2017</a></li>
  	<li><a href="http://www.umw.edu/president/wp-content/uploads/sites/37/2016/12/Presidents-Cabinet-Meeting-Agenda-February-8-2017.pdf">February 8, 2017</a></li>
+ 	<li><a href="http://www.umw.edu/president/wp-content/uploads/sites/37/2016/12/Presidents-Cabinet-Meeting-Agenda-February-22-2017.pdf">February 22, 2017</a></li>
 </ul>
