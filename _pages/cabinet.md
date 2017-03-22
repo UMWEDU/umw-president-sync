@@ -5,7 +5,7 @@ author: Shelley Keith
 post_date: 2016-05-09 09:08:50
 post_excerpt: ""
 layout: page
-permalink: http://www.umw.edu/president/cabinet/
+permalink: https://www.umw.edu/president/cabinet/
 published: true
 yst_prominent_words_version:
   - "1"
