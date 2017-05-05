@@ -1,6 +1,6 @@
 ---
 ID: 46271
-post_title: Veteran Affairs Committee
+post_title: Veterans Affairs Committee
 author: pverbeck
 post_date: 2016-10-05 08:53:02
 post_excerpt: ""
@@ -11,7 +11,7 @@ published: true
 ---
 <strong>Committee Charge</strong>
 
-The Veteran Affairs Committee is charged with advising the President and the Cabinet on programs and policies to support student veterans at the University of Mary Washington. The Veteran Affairs Committee will assess campus programs and policies, addressing issues where possible and making recommendations for improvements to University leadership. Second, the committee will function as an advisory body to University leadership on matters affecting veterans.
+The Veterans Affairs Committee is charged with advising the President and the Cabinet on programs and policies to support student veterans at the University of Mary Washington. The Veterans Affairs Committee will assess campus programs and policies, addressing issues where possible and making recommendations for improvements to University leadership. Second, the committee will function as an advisory body to University leadership on matters affecting veterans.
 
 &nbsp;
 
