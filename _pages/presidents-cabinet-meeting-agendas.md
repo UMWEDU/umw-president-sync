@@ -23,4 +23,5 @@ The anticipated agenda for meetings of the President’s Cabinet is provided to 
  	<li><a href="http://www.umw.edu/president/wp-content/uploads/sites/37/2016/12/Presidents-Cabinet-Meeting-Agenda-April-12-2017.pdf">April 12, 2017</a></li>
  	<li><a href="http://www.umw.edu/president/wp-content/uploads/sites/37/2016/12/Presidents-Cabinet-Meeting-Agenda-April-19-2017.pdf">April 19, 2017</a></li>
  	<li><a href="http://www.umw.edu/president/wp-content/uploads/sites/37/2016/12/Presidents-Cabinet-Meeting-Agenda-May-3-2017.pdf">May 3, 2017</a></li>
+ 	<li><a href="http://www.umw.edu/president/wp-content/uploads/sites/37/2016/12/Presidents-Cabinet-Meeting-Agenda-May-24-2017.pdf">May 24, 2017</a></li>
 </ul>
