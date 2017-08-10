@@ -18,7 +18,7 @@ The committee consists of the following members:
  	<li>Lisa Bowling, Vice President for Advancement and University Relations</li>
  	<li>Sabrina Johnson, Associate Vice President for Human Resources and Affirmative Action</li>
  	<li>Nina Mikhalevsky, Acting Provost</li>
- 	<li>Lynn Richardson, Interim Vice President for Administration and Finance</li>
+ 	<li>Lynne Richardson, Interim Vice President for Administration and Finance</li>
  	<li>Jeffrey W. Rountree, Chief Executive Officer, UMW Foundation</li>
  	<li>Juliette Landphair, Vice President for Student Affairs</li>
  	<li>Martin A. Wilder, Jr., Chief of Staff</li>
