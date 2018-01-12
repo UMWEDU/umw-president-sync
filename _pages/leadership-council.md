@@ -10,7 +10,7 @@ published: true
 post_date: 2016-05-25 13:06:32
 ---
 <h2>Committee Charge</h2>
-The Leadership Council advises the President on matters of university business in an effort to improve communication and establish a sense of unity across the campus departments. The council meets monthly throughout the academic year in conjunction with the President’s Cabinet.
+The Leadership Council advises the President on matters of university business in an effort to improve communication and establish a sense of unity across the campus departments. The council typically meets on the third Wednesday each month throughout the academic year in conjunction with the President’s Cabinet.
 <h2>Committee Membership</h2>
 The committee consists of the following members:
 <h3>Cabinet Members:</h3>
