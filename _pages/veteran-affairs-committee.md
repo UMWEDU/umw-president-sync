@@ -20,14 +20,15 @@ The Veterans Affairs Committee is charged with advising the President and the Ca
 The committee consists of the following members:
 <ul>
  	<li>Kevin Caffrey, Registrar's Office</li>
- 	<li>Jessica DeMers, Residence Life and Housing</li>
+ 	<li>Jessica DeMers, Office of Student Life</li>
  	<li>Claudine Ferrell, History and American Studies</li>
  	<li>Alison Grimes, Office of Disability Resources</li>
- 	<li>Heidi Hunter-Goldsworthy, Office of Financial Aid</li>
+ 	<li>Heidi Hunter-Goldsworthy, Office of Financial Aid, Committee Chair</li>
  	<li>Sarah Lindberg, Office of Admissions</li>
  	<li>Bob Louzek, Registrar's Office</li>
  	<li>Ken Machande, College of Business</li>
  	<li>Christy Pack, Office of Admissions</li>
+ 	<li>Chris Porter, Office of Student Life</li>
  	<li>Patricia Sarkuti, Registrar's Office</li>
  	<li>Charles Tate, Academic Services</li>
  	<li>Justin Wilkes, Office of Academic Engagement and Student Success</li>
