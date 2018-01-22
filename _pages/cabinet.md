@@ -18,7 +18,7 @@ The committee consists of the following members:
  	<li>Lisa Bowling, Vice President for Advancement and University Relations</li>
  	<li>Sabrina Johnson, Vice President of Equity and Access &amp; Chief Diversity Officer</li>
  	<li>Juliette Landphair, Vice President for Student Affairs</li>
- 	<li>Jeff McClurken, Chief of Staff and Clerk of the Board</li>
+ 	<li>Jeff McClurken, Chief of Staff &amp; Clerk of the Board</li>
  	<li>Nina Mikhalevsky, Provost</li>
  	<li>Lynne Richardson, Vice President for Administration and Finance &amp; Chief Financial Officer</li>
  	<li>Jeffrey W. Rountree, Chief Executive Officer, UMW Foundation</li>
