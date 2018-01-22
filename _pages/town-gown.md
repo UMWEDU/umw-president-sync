@@ -35,11 +35,11 @@ The committee consists of the following members:
  	<li>Juliette Landphair, Vice President for Student Affairs, UMW</li>
  	<li>Brian Layton, Fredericksburg City Police Patrol Division Commander</li>
  	<li>Carl Little, Maury Neighborhood Association President</li>
- 	<li>Jeff McClurken, Special Advisor to the President, UMW</li>
+ 	<li>Jeff McClurken, Chief of Staff &amp; Clerk of the Board, UMW</li>
  	<li>Nina Mikhalevsky, Provost, UMW</li>
  	<li>David Nye, Fredericksburg City Police Chief</li>
  	<li>Christine Porter, Director of Transfer and Off-Campus Student Services, UMW</li>
- 	<li>Lynne Richardson, Interim VP for Administration and Finance, UMW</li>
+ 	<li>Lynne Richardson, VP for Administration and Finance &amp; Chief Financial Officer, UMW</li>
  	<li>Kathy Sandor, Interim Director Business Services, Bookstore, UMW</li>
  	<li>Amanda Short, Student Gov't. Assoc. Commuter Student Assoc. President, UMW</li>
  	<li>Craig Vasey, Maury Neighborhood Association President and UMW faculty</li>
