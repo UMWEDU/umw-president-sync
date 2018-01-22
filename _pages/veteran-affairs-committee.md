@@ -23,7 +23,7 @@ The committee consists of the following members:
  	<li>Jessica DeMers, Office of Student Life</li>
  	<li>Claudine Ferrell, History and American Studies</li>
  	<li>Alison Grimes, Office of Disability Resources</li>
- 	<li>Heidi Hunter-Goldsworthy, Office of Financial Aid, Committee Chair</li>
+ 	<li>Heidi Hunter-Goldsworthy, Office of Financial Aid &amp; Committee Chair</li>
  	<li>Sarah Lindberg, Office of Admissions</li>
  	<li>Bob Louzek, Registrar's Office</li>
  	<li>Ken Machande, College of Business</li>
