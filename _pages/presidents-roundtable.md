@@ -2,12 +2,12 @@
 ID: 31
 post_title: President’s Roundtable
 author: Emily
-post_date: 2016-05-25 13:04:30
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/president/presidential-committees/presidents-roundtable/
+  http://www.umw.edu/president/presidential-committees/presidents-roundtable/
 published: true
+post_date: 2016-05-25 13:04:30
 ---
 <h2>Committee Charge</h2>
 The President’s Roundtable is comprised of regional business leaders, agency heads, and public officials who serve in an advisory capacity to the President of the University.  The group meets regularly to exchange information about current and future initiatives of the University.  As recognized leaders within the region, members of the Roundtable serve as an important interface between UMW and the community.  In addition to providing essential advice and counsel to the President, the Roundtable helps to advocate for the best interests of the University.
