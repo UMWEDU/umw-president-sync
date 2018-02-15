@@ -4,12 +4,12 @@ post_title: >
   Enrollment Management and Retention
   Committee
 author: Emily
-post_date: 2016-05-25 12:56:51
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/president/presidential-committees/enrollment-management/
+  http://www.umw.edu/president/presidential-committees/enrollment-management/
 published: true
+post_date: 2016-05-25 12:56:51
 ---
 <h2>Committee Charge</h2>
 To take a comprehensive approach to the enrollment of students at the University of Mary Washington. Specific tasks for the committee’s work include the following:
