@@ -2,12 +2,12 @@
 ID: 29
 post_title: Technology Advisory Council
 author: Emily
-post_date: 2016-05-25 13:01:54
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/president/presidential-committees/technology-advisory-council/
+  http://www.umw.edu/president/presidential-committees/technology-advisory-council/
 published: true
+post_date: 2016-05-25 13:01:54
 ---
 <h2>Council Charge</h2>
 The Technology Advisory Council (PTAC) is charged with advising the President and the Cabinet on matters relating to academic technologies, information resources, and libraries.  The Council provides important advice and counsel to assist the University in meeting important goals of the Strategic Plan.  It works in collaboration with the University Libraries, the Division of Teaching and Learning Technologies (DTLT), the Department of Information Technologies (IT), and the UMW Teaching Center and helps create the conditions for cultural transformation envisioned by the Discussion Group on Technologies and Libraries in its report to the Strategic Planning Committee.
