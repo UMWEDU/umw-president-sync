@@ -2,12 +2,12 @@
 ID: 34
 post_title: Summer Conferencing Task Force
 author: Emily
-post_date: 2016-05-25 13:08:41
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/president/presidential-committees/summer-conferencing-task-force/
+  http://www.umw.edu/president/presidential-committees/summer-conferencing-task-force/
 published: true
+post_date: 2016-05-25 13:08:41
 ---
 <h2>Committee Charge</h2>
 The Summer Conferencing Task Force is charged with conducting a comprehensive study and developing a detailed strategic plan to increase summer conferencing at UMW.
