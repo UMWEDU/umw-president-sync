@@ -5,7 +5,7 @@ author: Paula Zero
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/president/presidential-committees/cabinet/presidents-council-wellness/
+  http://www.umw.edu/president/presidential-committees/presidents-council-wellness/
 published: true
 post_date: 2018-02-15 16:29:10
 ---
