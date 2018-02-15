@@ -28,13 +28,6 @@ Chairs
  	<li>Jennifer Cooper, Human Resource Analyst</li>
  	<li>Kelly Shannon, Director of Campus Recreation</li>
 </ul>
-Students
-<ul>
- 	<li>Jenna Eggborn</li>
- 	<li>Erin Hill</li>
- 	<li>Sarah Karwowski</li>
- 	<li>Taryn Lemmon</li>
-</ul>
 Faculty and Staff
 <ul>
  	<li>April Brecht, Director of Advising Center, College of Education</li>
@@ -50,6 +43,13 @@ Faculty and Staff
  	<li>Joanna Raucci, Associate Director Multicultural Center</li>
  	<li>Hunter Rauscher, Associate Director of Housing and Operations</li>
  	<li>Ray Tuttle, Director of Student Conduct and Responsibility</li>
+</ul>
+Students
+<ul>
+ 	<li>Jenna Eggborn</li>
+ 	<li>Erin Hill</li>
+ 	<li>Sarah Karwowski</li>
+ 	<li>Taryn Lemmon</li>
 </ul>
 Community Member
 <ul>
