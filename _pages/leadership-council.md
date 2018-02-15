@@ -35,6 +35,7 @@ The committee consists of the following members:
  	<li>J. Scott Jones, Dahlgren Campus Site Director</li>
  	<li>Peter Kelly, Dean, College of Education</li>
  	<li>Tera Kovanes, Director of Internal Audit</li>
+ 	<li>Pam Lowery, President SAC &amp; Director of Tech in Prof. Develop. &amp; HR Cons</li>
  	<li>Ken Machande, Interim Dean, College of Business</li>
  	<li>Keith Mellinger, Interim Dean, College of Arts &amp; Sciences</li>
  	<li>Paul Messplay, Executive Director Budget Financial Analysis</li>
@@ -43,7 +44,6 @@ The committee consists of the following members:
  	<li>Tim O’Donnell, Associate Provost for Academic Engagement and Student Success</li>
  	<li>Tiffany Oldfield, Title IX Coordinator</li>
  	<li>Debra Schleef, Interim Assistant Provost Assessment</li>
- 	<li>Julie Smith, President SAC &amp; Asst. VP for Finance and Controller</li>
  	<li>Kenneth Steen, Associate VP University Advancement for Alumni Relations</li>
  	<li>Kenneth Tyler, Athletics Director</li>
  	<li>John Wiltenmuth, Associate VP for Facilities Services</li>
