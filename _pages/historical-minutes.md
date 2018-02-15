@@ -2,12 +2,12 @@
 ID: 36
 post_title: Historical Minutes
 author: Emily
-post_date: 2016-05-25 13:11:36
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/president/presidential-committees/cabinet/historical-minutes/
 published: true
+post_date: 2016-05-25 13:11:36
 ---
 The following are the President’s Cabinet meeting minutes from previous years:
 <ul>
