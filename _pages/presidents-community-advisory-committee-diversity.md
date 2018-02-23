@@ -5,7 +5,7 @@ author: Paula Zero
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/president/presidents-community-advisory-committee-diversity/
+  http://www.umw.edu/president/presidential-committees/cabinet/presidents-community-advisory-committee-diversity/
 published: true
 post_date: 2018-02-23 16:11:46
 ---
