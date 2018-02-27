@@ -11,7 +11,7 @@ post_date: 2016-05-09 09:34:51
 ---
 <a href="https://www.umw.edu/president/wp-admin/upload.php?item=46340">UMW Strategic Vision</a>
 
-"<em>An Investment of Hope for the Future</em>" - A strategic vision for the University of Mary Washington as approved by the Board of Visitors on November 17, 2017
+A strategic vision for the University of Mary Washington as approved by the Board of Visitors on November 17, 2017.
 
 <a href="http://provost.umw.edu/files/2016/03/UMW2020.pdf">UMW Strategic Plan 2020</a>
 
