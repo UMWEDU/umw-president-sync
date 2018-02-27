@@ -28,7 +28,6 @@ This committee is charged with advising the President on how the University of M
  	<li>Ameeta Vashee Rajagopal</li>
  	<li>Xavier R. Richardson, MBA</li>
  	<li>Clarence A. Robinson</li>
- 	<li>Rabbi Michael Weinstein</li>
  	<li>Alda White</li>
  	<li>Deirdre Powell White '91</li>
  	<li>Marguerite B. Young</li>
