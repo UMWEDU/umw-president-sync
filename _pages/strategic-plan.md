@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2016-05-09 09:34:51
 ---
-<a href="https://www.umw.edu/president/wp-admin/upload.php?item=46340">UMW Strategic Vision</a>
+<a href="http://www.umw.edu/president/wp-content/uploads/sites/37/2018/02/An-Investment-of-Hope-for-the-Future-As-passed-by-BOV-November-2017.pdf">UMW Strategic Vision</a>
 
 A strategic vision for the University of Mary Washington as approved by the Board of Visitors on November 17, 2017.
 
