@@ -15,7 +15,7 @@ A strategic vision for the University of Mary Washington as approved by the Bo
 
 <a href="http://provost.umw.edu/files/2016/03/UMW2020.pdf">UMW Strategic Plan 2020</a>
 
-<a href="http://president.umw.edu/wp-content/blogs.dir/181/files/2011/09/UMW-Strategic-Plan-2009-2014.pdf">University of Mary Washington Strategic Plan 2009-2014
+<a href="http://president.umw.edu/wp-content/blogs.dir/181/files/2011/09/UMW-Strategic-Plan-2009-2014.pdf">UMW Strategic Plan 2009-2014
 </a>
 
 <a href="http://president.umw.edu/wp-content/blogs.dir/181/files/2012/04/Goals-July-2010-Updates-October-2011-Final.pdf">Strategic Plan Progress Report 2010-11
