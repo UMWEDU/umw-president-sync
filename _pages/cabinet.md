@@ -16,11 +16,11 @@ The committee consists of the following members:
 <ul>
  	<li>Troy D. Paino, President</li>
  	<li>Lisa Bowling, Vice President for Advancement and University Relations</li>
- 	<li>Sabrina Johnson, Vice President of Equity and Access &amp; Chief Diversity Officer</li>
+ 	<li>Sabrina Johnson, Vice President for Equity and Access and Chief Diversity Officer</li>
  	<li>Juliette Landphair, Vice President for Student Affairs</li>
- 	<li>Jeff McClurken, Chief of Staff &amp; Clerk of the Board</li>
+ 	<li>Jeff McClurken, Chief of Staff and Clerk of the Board of Visitors</li>
  	<li>Nina Mikhalevsky, Provost</li>
- 	<li>Lynne Richardson, Vice President for Administration and Finance &amp; Chief Financial Officer</li>
+ 	<li>Lynne Richardson, Vice President for Administration and Finance and Chief Financial Officer</li>
  	<li>Jeffrey W. Rountree, Chief Executive Officer, UMW Foundation</li>
  	<li>Kimberley Buster-Williams, Vice President for Enrollment Management</li>
 </ul>
