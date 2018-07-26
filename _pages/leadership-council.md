@@ -10,7 +10,7 @@ published: true
 post_date: 2016-05-25 13:06:32
 ---
 <h2>Committee Charge</h2>
-The Leadership Council advises the President on matters of university business in an effort to improve communication and establish a sense of unity across the campus departments. The council typically meets on the third Wednesday each month throughout the academic year in conjunction with the President’s Cabinet.
+The Leadership Council provides feedback and advises the President on matters of university business such as initiatives, proposals, etc., as well as facilitates communication and establishes a sense of unity across the campus departments. The council typically meets twice each semester, during the fall and spring semesters, in conjunction with the President’s Cabinet.
 <h2>Committee Membership</h2>
 The committee consists of the following members:
 <h3>Cabinet Members:</h3>
@@ -31,21 +31,22 @@ The committee consists of the following members:
  	<li>Brian Baker, Executive Director, Economic Development</li>
  	<li>Anna Billingsley, Associate VP of University Relations</li>
  	<li>Audrey Burges, Assistant Attorney General</li>
+ 	<li>Patrick Catullo, Interim Athletic Director</li>
  	<li>Hall Cheshire, Chief Information Officer</li>
+ 	<li>Dana Hall, Associate Professor, Athletics, Health, Physical Education</li>
  	<li>J. Scott Jones, Dahlgren Campus Site Director</li>
  	<li>Peter Kelly, Dean, College of Education</li>
  	<li>Tera Kovanes, Director of Internal Audit</li>
  	<li>Pam Lowery, President SAC &amp; Director of Tech in Prof. Develop. &amp; HR Cons</li>
  	<li>Ken Machande, Interim Dean, College of Business</li>
- 	<li>Keith Mellinger, Interim Dean, College of Arts &amp; Sciences</li>
+ 	<li>Keith Mellinger, Dean, College of Arts &amp; Sciences</li>
  	<li>Paul Messplay, Executive Director Budget Financial Analysis</li>
  	<li>Sarah Morealli, Lecturer, Earth &amp; Environmental Sciences</li>
  	<li>John Morello, Associate Provost for Academic Affairs</li>
  	<li>Tim O’Donnell, Associate Provost for Academic Engagement and Student Success</li>
  	<li>Tiffany Oldfield, Title IX Coordinator</li>
- 	<li>Debra Schleef, Interim Assistant Provost Assessment</li>
+ 	<li>Debra Schleef, Assoc. Provost Institutional Analysis &amp; Effectiveness</li>
  	<li>Kenneth Steen, Associate VP University Advancement for Alumni Relations</li>
- 	<li>Kenneth Tyler, Athletics Director</li>
  	<li>John Wiltenmuth, Associate VP for Facilities Services</li>
  	<li>Susan Worrell, Special Assistant to the President for University Events</li>
  	<li>Kimberly Young, Executive Director of Continuing/Professional Studies</li>
