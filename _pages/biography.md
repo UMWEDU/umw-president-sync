@@ -37,6 +37,6 @@ Dr. Paino earned doctorate and master’s degrees in American studies from Michi
 
 His teaching and scholarly interests include American higher education, 20th-century cultural and social history and American legal history. He has written extensively on the history of American sports and published his book, <em>The Social History of the United States: 1960s</em>, in 2008.
 
-Dr. Paino is a member of the Association of American Colleges and Universities (AAC&amp;U) President’s Trust for Liberal Education and America’s Promise (LEAP). He is an executive committee member and past president of the Council of Public Liberal Arts Colleges (COPLAC).
+Dr. Paino is a member of the Association of American Colleges and Universities (AAC&amp;U) President’s Trust for Liberal Education and America’s Promise (LEAP). He is an executive committee member and past president of the Council of Public Liberal Arts Colleges (COPLAC). He also serves on the Growth4VA President’s Working Group.
 
 Before being named Truman’s president, he served that university as vice president for academic affairs; previously, he taught history and was dean of Winona State University’s College of Liberal Arts.
