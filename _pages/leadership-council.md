@@ -34,6 +34,7 @@ The committee consists of the following members:
  	<li>Patrick Catullo, Interim Athletic Director</li>
  	<li>Hall Cheshire, Chief Information Officer</li>
  	<li>Dana Hall, Associate Professor, Athletics, Health, Physical Education</li>
+ 	<li>Chief Michael Hall, UMW Chief of Police</li>
  	<li>J. Scott Jones, Dahlgren Campus Site Director</li>
  	<li>Peter Kelly, Dean, College of Education</li>
  	<li>Tera Kovanes, Director of Internal Audit</li>
@@ -41,7 +42,6 @@ The committee consists of the following members:
  	<li>Ken Machande, Interim Dean, College of Business</li>
  	<li>Keith Mellinger, Dean, College of Arts &amp; Sciences</li>
  	<li>Paul Messplay, Executive Director Budget Financial Analysis</li>
- 	<li>Sarah Morealli, Lecturer, Earth &amp; Environmental Sciences</li>
  	<li>John Morello, Associate Provost for Academic Affairs</li>
  	<li>Tim O’Donnell, Associate Provost for Academic Engagement and Student Success</li>
  	<li>Tiffany Oldfield, Title IX Coordinator</li>
@@ -53,8 +53,9 @@ The committee consists of the following members:
 </ul>
 <h3>Faculty Council Representatives:</h3>
 <ul>
- 	<li>Marcel Rotter, Chair</li>
- 	<li>Jackie Gallagher, Vice-Chair</li>
+ 	<li>Jackie Gallagher, Chair</li>
+ 	<li>Anand Rao, Chair-Elect</li>
+ 	<li>Dave Henderson, Secretary</li>
 </ul>
 <h2>Meeting Minutes</h2>
 <ul>
