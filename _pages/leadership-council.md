@@ -47,15 +47,16 @@ The committee consists of the following members:
  	<li>Tiffany Oldfield, Title IX Coordinator</li>
  	<li>Debra Schleef, Assoc. Provost Institutional Analysis &amp; Effectiveness</li>
  	<li>Kenneth Steen, Associate VP University Advancement for Alumni Relations</li>
+ 	<li>Beth Williams, Executive Director of Human Resources</li>
  	<li>John Wiltenmuth, Associate VP for Facilities Services</li>
  	<li>Susan Worrell, Special Assistant to the President for University Events</li>
  	<li>Kimberly Young, Executive Director of Continuing/Professional Studies</li>
 </ul>
 <h3>Faculty Council Representatives:</h3>
 <ul>
- 	<li>Jackie Gallagher, Chair</li>
- 	<li>Anand Rao, Chair-Elect</li>
- 	<li>Dave Henderson, Secretary</li>
+ 	<li>Jackie Gallagher, UFC Chair</li>
+ 	<li>Anand Rao, UFC Chair-Elect</li>
+ 	<li>Dave Henderson, UFC Secretary</li>
 </ul>
 <h2>Meeting Minutes</h2>
 <ul>
