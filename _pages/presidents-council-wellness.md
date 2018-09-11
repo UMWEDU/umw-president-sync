@@ -82,9 +82,6 @@ If interested in serving, please contact the subcommittee co-chairs in bolded te
  	<li>Kashef Majid, Assistant Professor, Business</li>
  	<li>Jill Ellington, Applications Developer, IT</li>
 </ul>
-&nbsp;
-
-&nbsp;
 <h2>Substance Use, Misuse, and Recovery</h2>
 <ul>
  	<li><b>Terri Arthur, Employee Relations Analyst</b></li>
