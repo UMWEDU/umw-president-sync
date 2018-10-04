@@ -21,15 +21,16 @@ The committee consists of the following members:
  	<li>Michael Costa, College Terrace Neighborhood Association</li>
  	<li>Kerry Devine, City Council Member – At-Large and College Heights Resident</li>
  	<li>Tim Duffy, City Council Member, Ward 3</li>
- 	<li>Nancy Fahy, Trench Hill Condo Association President</li>
+ 	<li>Katie Fairfax, Off-Campus Student Association, President, UMW</li>
  	<li>Doug Fawcett, Assistant City Manager, Fredericksburg City Public Works</li>
  	<li>Charyl Ferguson, Association Manager, Village of Idlewild</li>
+ 	<li>Matt Good, Student Government Association, President, UMW</li>
  	<li>Michael Hall, Chief, University of Mary Washington Police</li>
  	<li>Earl Hardy, College Hill Owners Association, President</li>
  	<li>Crystal Hill, Fredericksburg City Police Department</li>
- 	<li>Grace Howie, Student Gov't. Assoc., Dir. of Community Outreach and Involvement, UMW</li>
+ 	<li>Sara Irby, Trench Hill Condominium Association</li>
+ 	<li>Sabrina Johnson, VP for Equity and Access/Chief Diversity Officer, UMW</li>
  	<li>Chuck Johnston, Fredericksburg City Planning Director</li>
- 	<li>Sarah Karwowski, Student Government Association President, UMW</li>
  	<li>Dave King, Fredericksburg City Public Works</li>
  	<li>Sarah Kirkpatrick, Public Information Officer, Fredericksburg Police</li>
  	<li>Juliette Landphair, Vice President for Student Affairs, UMW</li>
@@ -37,11 +38,12 @@ The committee consists of the following members:
  	<li>Carl Little, Maury Neighborhood Association President</li>
  	<li>Jeff McClurken, Chief of Staff &amp; Clerk of the Board, UMW</li>
  	<li>Nina Mikhalevsky, Provost, UMW</li>
+ 	<li>Adina Mobin, Student Government Association, Community Relations Committee, UMW</li>
  	<li>David Nye, Fredericksburg City Police Chief</li>
  	<li>Christine Porter, Director of Transfer and Off-Campus Student Services, UMW</li>
  	<li>Lynne Richardson, VP for Administration and Finance &amp; Chief Financial Officer, UMW</li>
+ 	<li>Laura Rutledge, Elite Community Management, LLC, Association Manager</li>
  	<li>Kathy Sandor, Interim Director Business Services, Bookstore, UMW</li>
- 	<li>Amanda Short, Student Gov't. Assoc. Commuter Student Assoc. President, UMW</li>
  	<li>Craig Vasey, Maury Neighborhood Association President and UMW faculty</li>
  	<li>Debra Ward, Fredericksburg City Zoning</li>
  	<li>Mark Whitley, Fredericksburg Assistant City Manager</li>
