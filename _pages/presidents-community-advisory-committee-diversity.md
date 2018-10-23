@@ -16,7 +16,7 @@ This committee is charged with advising the President on how the University of M
  	<li>Munira Salim Abdalla</li>
  	<li>Gaye Todd Adegbalola</li>
  	<li>Deborah Banzon</li>
- 	<li>Baron Braswell</li>
+ 	<li>Reverend Baron Braswell</li>
  	<li>The Honorable Pamela E. Bridgewater</li>
  	<li>Dr. Gene Carter, Chair</li>
  	<li>Dr. Marci Catlett</li>
@@ -24,7 +24,9 @@ This committee is charged with advising the President on how the University of M
  	<li>Shah Hilal</li>
  	<li>Sabrina Johnson, Vice President of Equity and Access &amp; Chief Diversity Officer, UMW Staff Liaison</li>
  	<li>Pamela Jones</li>
+ 	<li>Kevin Koziol</li>
  	<li>Troy D. Paino, President, UMW</li>
+ 	<li>Kesha Phipps-Adams</li>
  	<li>Ameeta Vashee Rajagopal</li>
  	<li>Xavier R. Richardson, MBA</li>
  	<li>Clarence A. Robinson</li>
