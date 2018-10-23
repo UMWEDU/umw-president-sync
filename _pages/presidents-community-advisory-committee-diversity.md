@@ -14,6 +14,7 @@ This committee is charged with advising the President on how the University of M
 <h2>Committee Members</h2>
 <ul>
  	<li>Munira Salim Abdalla</li>
+ 	<li>Kesha Phipps-Adams</li>
  	<li>Gaye Todd Adegbalola</li>
  	<li>Deborah Banzon</li>
  	<li>Reverend Baron Braswell</li>
@@ -26,7 +27,6 @@ This committee is charged with advising the President on how the University of M
  	<li>Pamela Jones</li>
  	<li>Kevin Koziol</li>
  	<li>Troy D. Paino, President, UMW</li>
- 	<li>Kesha Phipps-Adams</li>
  	<li>Ameeta Vashee Rajagopal</li>
  	<li>Xavier R. Richardson, MBA</li>
  	<li>Clarence A. Robinson</li>
