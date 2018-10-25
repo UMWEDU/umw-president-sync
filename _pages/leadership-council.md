@@ -37,7 +37,6 @@ The committee consists of the following members:
  	<li>Chief Michael Hall, UMW Chief of Police</li>
  	<li>J. Scott Jones, Dahlgren Campus Site Director</li>
  	<li>Peter Kelly, Dean, College of Education</li>
- 	<li>Tera Kovanes, Director of Internal Audit</li>
  	<li>Pam Lowery, President SAC &amp; Director of Tech in Prof. Develop. &amp; HR Cons</li>
  	<li>Ken Machande, Interim Dean, College of Business</li>
  	<li>Keith Mellinger, Dean, College of Arts &amp; Sciences</li>
