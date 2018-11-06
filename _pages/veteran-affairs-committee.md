@@ -9,14 +9,9 @@ permalink: >
 published: true
 post_date: 2016-10-05 08:53:02
 ---
-<strong>Committee Charge</strong>
-
+<h2><span style="color: #ff0000"><strong>Committee Charge</strong></span></h2>
 The Veterans Affairs Committee is charged with advising the President and the Cabinet on programs and policies to support student veterans at the University of Mary Washington. The Veterans Affairs Committee will assess campus programs and policies, addressing issues where possible and making recommendations for improvements to University leadership. Second, the committee will function as an advisory body to University leadership on matters affecting veterans.
-
-&nbsp;
-
-<strong>Committee Members</strong>
-
+<h2><span style="color: #ff0000"><strong>Committee Membership</strong></span></h2>
 The committee consists of the following members:
 <ul>
  	<li>Kevin Caffrey, Registrar's Office</li>
@@ -26,7 +21,7 @@ The committee consists of the following members:
  	<li>Sarah Lindberg, Office of Admissions</li>
  	<li>Ken Machande, College of Business</li>
  	<li>Christy Pack, Office of Admissions</li>
- 	<li>Chris Porter, Chair, Office of Student Life</li>
+ 	<li>Chris Porter, Committee Chair, Office of Student Life</li>
  	<li>Patricia Sarkuti, Registrar's Office</li>
  	<li>Timothy Saulnier, Office of Financial Aid</li>
  	<li>Linda Shealy, Student Health Center</li>
