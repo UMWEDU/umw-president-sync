@@ -21,13 +21,16 @@ The committee consists of the following members:
 <ul>
  	<li>Kevin Caffrey, Registrar's Office</li>
  	<li>Claudine Ferrell, History and American Studies</li>
+ 	<li>Dennis Ferry, Student Veteran</li>
  	<li>Alison Grimes, Office of Disability Resources</li>
  	<li>Sarah Lindberg, Office of Admissions</li>
- 	<li>Bob Louzek, Registrar's Office</li>
  	<li>Ken Machande, College of Business</li>
  	<li>Christy Pack, Office of Admissions</li>
- 	<li>Chris Porter, Office of Student Life</li>
+ 	<li>Chris Porter, Chair, Office of Student Life</li>
  	<li>Patricia Sarkuti, Registrar's Office</li>
+ 	<li>Timothy Saulnier, Office of Financial Aid</li>
+ 	<li>Linda Shealy, Student Health Center</li>
+ 	<li>Catherine Smith, Talley Center for Counseling Services</li>
  	<li>Charles Tate, Academic Services</li>
  	<li>Justin Wilkes, Office of Academic Engagement and Student Success</li>
 </ul>
