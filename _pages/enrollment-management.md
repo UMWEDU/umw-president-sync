@@ -25,16 +25,14 @@ To take a comprehensive approach to the enrollment of students at the University
 <h2>Committee Membership</h2>
 The committee consists of the following members:
 <ul>
- 	<li>Taiwo Ande, Assistant Provost for Institutional Analysis and Effectiveness</li>
  	<li>Virginia Ashley, Director of Reporting and Decision Support</li>
- 	<li>Kimberley Buster-Williams, Associate Provost for Enrollment Management</li>
+ 	<li>Kimberley Buster-Williams, Vice President for Enrollment Management</li>
  	<li>Rita Dunston, Registrar</li>
- 	<li>Richard Finkelstein, Dean of the College of Arts and Sciences</li>
- 	<li>Nina Mikhalevsky, Interim Dean of the College of Education</li>
+ 	<li>Nina Mikhalevsky, Provost</li>
  	<li>Jane Huffman, College of Education chair of the Dept. of Foundation</li>
  	<li>David Klein, Class of 2013</li>
  	<li>Paul Messplay, Executive Director of Budget and Finance Analysis</li>
- 	<li>Lynne Richardson, Dean of the College of Business</li>
+ 	<li>Lynne Richardson, Vice President for Administration and Finance</li>
  	<li>Cedric Rucker, Associate Vice President and Dean of Student Life</li>
  	<li>Marion Sanford, Director of the James Farmer Multicultural Center</li>
  	<li>Debra Schleef, Chair and Professor of Sociology</li>
