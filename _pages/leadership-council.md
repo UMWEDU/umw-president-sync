@@ -21,7 +21,7 @@ The committee consists of the following members:
  	<li>Juliette Landphair, Vice President for Student Affairs</li>
  	<li>Jeff McClurken, Chief of Staff &amp; Clerk of the Board</li>
  	<li>Nina Mikhalevsky, Provost</li>
- 	<li>Lynne Richardson, Vice President for Administration and Finance &amp; Chief Financial Officer</li>
+ 	<li>Paul Messplay, Vice President for Administration and Finance &amp; Chief Financial Officer</li>
  	<li>Jeffrey W. Rountree, Chief Executive Officer, UMW Foundation</li>
  	<li>Kimberley Buster-Williams, Vice President for Enrollment Management</li>
 </ul>
@@ -34,16 +34,14 @@ The committee consists of the following members:
  	<li>Patrick Catullo, Interim Athletic Director</li>
  	<li>Hall Cheshire, Chief Information Officer</li>
  	<li>Dana Hall, Associate Professor, Athletics, Health, Physical Education</li>
- 	<li>Chief Michael Hall, UMW Chief of Police</li>
+ 	<li>Michael Hall, UMW Chief of Police</li>
  	<li>J. Scott Jones, Dahlgren Campus Site Director</li>
  	<li>Peter Kelly, Dean, College of Education</li>
  	<li>Pam Lowery, President SAC &amp; Director of Tech in Prof. Develop. &amp; HR Cons</li>
- 	<li>Ken Machande, Interim Dean, College of Business</li>
  	<li>Keith Mellinger, Dean, College of Arts &amp; Sciences</li>
- 	<li>Paul Messplay, Executive Director Budget Financial Analysis</li>
  	<li>John Morello, Associate Provost for Academic Affairs</li>
  	<li>Tim O’Donnell, Associate Provost for Academic Engagement and Student Success</li>
- 	<li>Tiffany Oldfield, Title IX Coordinator</li>
+ 	<li>Lynne Richardson, Dean, College of Business</li>
  	<li>Debra Schleef, Assoc. Provost Institutional Analysis &amp; Effectiveness</li>
  	<li>Kenneth Steen, Associate VP University Advancement for Alumni Relations</li>
  	<li>Beth Williams, Executive Director of Human Resources</li>
