@@ -17,13 +17,13 @@ The committee consists of the following members:
 <ul>
  	<li>Troy D. Paino, President</li>
  	<li>Lisa Bowling, Vice President for Advancement and University Relations</li>
+ 	<li>Kimberley Buster-Williams, Vice President for Enrollment Management</li>
  	<li>Sabrina Johnson, Vice President of Equity and Access &amp; Chief Diversity Officer</li>
  	<li>Juliette Landphair, Vice President for Student Affairs</li>
  	<li>Jeff McClurken, Chief of Staff &amp; Clerk of the Board</li>
- 	<li>Nina Mikhalevsky, Provost</li>
  	<li>Paul Messplay, Vice President for Administration and Finance &amp; Chief Financial Officer</li>
+ 	<li>Nina Mikhalevsky, Provost</li>
  	<li>Jeffrey W. Rountree, Chief Executive Officer, UMW Foundation</li>
- 	<li>Kimberley Buster-Williams, Vice President for Enrollment Management</li>
 </ul>
 <h3>Appointments:</h3>
 <ul>
@@ -38,7 +38,9 @@ The committee consists of the following members:
  	<li>J. Scott Jones, Dahlgren Campus Site Director</li>
  	<li>Peter Kelly, Dean, College of Education</li>
  	<li>Pam Lowery, President SAC &amp; Director of Tech in Prof. Develop. &amp; HR Cons</li>
+ 	<li>Davis McCrory, Director of Internal Audit</li>
  	<li>Keith Mellinger, Dean, College of Arts &amp; Sciences</li>
+ 	<li>Marissa Miller, Interim Title IX Coordinator</li>
  	<li>John Morello, Associate Provost for Academic Affairs</li>
  	<li>Tim O’Donnell, Associate Provost for Academic Engagement and Student Success</li>
  	<li>Lynne Richardson, Dean, College of Business</li>
