@@ -43,13 +43,12 @@ If interested in serving, please contact the subcommittee co-chairs in bolded te
 <h2>Mental and Physical Wellbeing</h2>
 <ul>
  	<li><b>Tevya Zukor, Director, Talley Center, Subcommittee Co-Chair</b></li>
- 	<li><b>Brittanie Naff, Assistant Director for Fitness &amp; Wellness, Campus Recreation, Subcommittee Co-Chair</b></li>
- 	<li>Courtney Clayton, Associate Professor/Associate Dean, College of Education</li>
- 	<li>Vicky Nichols Wilder, ’80</li>
+ 	<li><b>Brittanie Naff, Assistant Director, Campus Recreation, Subcommittee Co-Chair</b></li>
  	<li>April Brecht, Director of Advising Center, College of Education</li>
+ 	<li>Britnae Purdy, Project Coordinator - Sexual Violence, The Office of Title IX</li>
+ 	<li>Courtney Clayton, Associate Professor/Associate Dean, College of Education</li>
  	<li>Nancy Wang, Director Student Health Center, Physician</li>
- 	<li>JJ Santagata, Graduate Assistant for Sports &amp; Outdoor Recreation, Campus Recreation</li>
- 	<li>Lindsey Crawford, Graduate Assistant for Off Campus and Transfer Students</li>
+ 	<li>Vicky Nichols Wilder, ’80</li>
 </ul>
 <h2>Faculty and Staff Wellness Champion</h2>
 <ul>
