@@ -5,7 +5,7 @@ author: Curtiss Grymala
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/president/january-2019-umw-assembly/
+  http://www.umw.edu/president/may-2019-umw-assembly/
 published: true
 post_date: 2017-01-20 17:06:22
 ---
