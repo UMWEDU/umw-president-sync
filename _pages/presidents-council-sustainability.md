@@ -15,35 +15,37 @@ The President’s Council on Sustainability has a critical role in shaping admin
 The council will advise and assist in the development of goals in these four action areas: Administration and Finance, Education and Research, Operation, and Innovation and Awareness. The PCS will meet monthly throughout the academic year. Members need to make a significant commitment to sustainability work as each person will participate in additional action groups that undertake projects outside the monthly meetings.
 <h2>Committee Membership</h2>
 The committee consists of the following members:
-
-Faculty
+<h3>Faculty</h3>
 <ul>
- 	<li>Eric Bonds*, Assistant Professor, Sociology and Anthropology</li>
- 	<li>Melanie Szulczewski, Associate Professor, Earth and Environmental Sciences</li>
+ 	<li>Eric Bonds*, Assistant Professor, Sociology and Anthropology</li>
+ 	<li>Melanie Szulczewski*, Associate Professor, Earth and Environmental Sciences</li>
  	<li>Alan Griffith, Professor, Biological Sciences</li>
- 	<li>Dan Hubbard, Associate Professor, College of Business</li>
- 	<li>Jeremy Larochelle, Associate Professor, Modern Languages and Literatures</li>
- 	<li>Richard Finkelstein, Professor of English, English, Linguistics, and Communication</li>
+ 	<li>Pamela Grothe, Assistant Professor, Earth and Environmental Sciences</li>
+ 	<li>Jeremy Larochelle, Associate Professor, Modern Languages and Literatures</li>
+ 	<li>Richard Finkelstein, Professor of English, English, Linguistics, and Communication</li>
+ 	<li>Chuck Whipkey, Associate Professor, Earth and Environmental Sciences</li>
 </ul>
-Staff
+<h3>Staff</h3>
 <ul>
  	<li>Kevin Caffrey*, Senior Associate Registrar, Stafford Campus</li>
+ 	<li>Richard Blair, Director, Landscaping &amp; Grounds</li>
  	<li>Bianca Hightower, Assistant Director for Career and Professional Development, Academic Services</li>
  	<li>Brian Ogle, Associate Registrar for Information Technology, Registrar</li>
  	<li>Jay Sullivan, Director of Utilities Management, Facilities Services</li>
  	<li>Erin Wysong, References and Sciences Librarian, Simpson Library</li>
- 	<li>Evelyn Torres, Assistant Registrar for Degree Audit, Registrar</li>
- 	<li>Michelle Pickham, Buyer Specialist, Business Services</li>
+ 	<li>Shannon Hauser, Technical Services Specialist, Simpson Library</li>
  	<li>Amme Mahler, Copy and Mail Services Manager, Copy Center</li>
 </ul>
-Students
+<h3>Students</h3>
 <ul>
- 	<li>Taryn Lemmon*, Sustainability Coordinator - Class of 2018, Business Administration Major</li>
- 	<li>Daria Forth, Class of 2018, Natural Environmental Science Major</li>
- 	<li>Jennifer Grove, Class of 2018, Biology Major - Sustainability Minor - GIS Certificate</li>
- 	<li>Maureen Sullivan, Class of 2018, Sociology Major - Climate Science Minor</li>
- 	<li>Sean Morris, Class of 2018, Biochemistry Major</li>
- 	<li>Brenna Creamer, Class of 2021</li>
- 	<li>Jillian Gellman, Class of 2021</li>
+ 	<li>Genesis Avila Lugo*, Sustainability Coordinator – Class of 2019, Spanish Major</li>
+ 	<li>Mary Andrews – Class of 2020, Environmental Science: Social Major &amp; Business French Minor</li>
+ 	<li>Brenna Creamer – Class of 2021, Geography Major &amp; Environmental Sustainability &amp; Spanish Minors</li>
+ 	<li>Kelly Flynn – Class of 2020, Biology Major &amp; Environmental Sustainability Minor</li>
+ 	<li>Jillian Gellman – Class of 2021, Geography Major &amp; Environmental Sustainability Minor</li>
+ 	<li>Elisabeth Heras – Class of 2020, Biology Major &amp; Environmental Sustainability Minor</li>
+ 	<li>Curtis Kasiski – Class of 2024, Undeclared</li>
+ 	<li>Mackenzie Marbain – Class of 2020, Environmental Science: Natural Major &amp; Practical Ethics Minor</li>
+ 	<li>Hunter Stephens – Class of 2022, Environmental Science: Natural Major &amp; Business Admin Minor</li>
 </ul>
 *Co-Chair
