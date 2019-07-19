@@ -17,16 +17,15 @@ The committee consists of the following members:
  	<li>Tim Baroody, Fredericksburg City Manager</li>
  	<li>Meredith Beckett, College Heights Civic Association, TAG Committee Chair</li>
  	<li>Anna Billingsley, Associate VP for University Relations, UMW</li>
- 	<li>Paul Binkley, Executive Director, Career and Professional Development</li>
+ 	<li>Paul Binkley, Executive Director, Career and Professional Development, UMW</li>
  	<li>Lisa Bowling, VP for Advancement and University Relations, UMW</li>
+ 	<li>Ethan Cory, President, Off-Campus Student Association, UMW</li>
  	<li>Kerry Devine, City Council Member – At-Large and College Heights Resident</li>
  	<li>Tim Duffy, City Council Member, Ward 3</li>
- 	<li>Katie Fairfax, Off-Campus Student Association, President, UMW</li>
  	<li>Doug Fawcett, Assistant City Manager, Fredericksburg City Public Works</li>
  	<li>Charyl Ferguson, Association Manager, Village of Idlewild</li>
- 	<li>Matt Good, Student Government Association, President, UMW</li>
+ 	<li>Jason Ford, President, Student Government Association, UMW</li>
  	<li>Michael Hall, Chief, University of Mary Washington Police</li>
- 	<li>Crystal Hill, Fredericksburg City Police Department</li>
  	<li>Sara Irby, Trench Hill Condominium Association</li>
  	<li>Sabrina Johnson, VP for Equity and Access/Chief Diversity Officer, UMW</li>
  	<li>Chuck Johnston, Fredericksburg City Planning Director</li>
@@ -35,7 +34,9 @@ The committee consists of the following members:
  	<li>Juliette Landphair, Vice President for Student Affairs, UMW</li>
  	<li>Brian Layton, Fredericksburg City Police Patrol Division Commander</li>
  	<li>Carl Little, Maury Neighborhood Association President</li>
- 	<li>Stefanie Lucas-Waverly, Title IX Coordinator</li>
+ 	<li>Stefanie Lucas-Waverly, Title IX Coordinator, UMW</li>
+ 	<li>Aimee Lynch, Fredericksburg City Police Department</li>
+ 	<li>Leslie Martin, Director, Center for Community Engagement, UMW</li>
  	<li>Jeff McClurken, Chief of Staff &amp; Clerk of the Board, UMW</li>
  	<li>Paul Messplay, VP for Administration and Finance &amp; Chief Financial Officer, UMW</li>
  	<li>Nina Mikhalevsky, Provost, UMW</li>
