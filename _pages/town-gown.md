@@ -17,6 +17,7 @@ The committee consists of the following members:
  	<li>Tim Baroody, Fredericksburg City Manager</li>
  	<li>Meredith Beckett, College Heights Civic Association, TAG Committee Chair</li>
  	<li>Anna Billingsley, Associate VP for University Relations, UMW</li>
+ 	<li>Paul Binkley, Executive Director, Career and Professional Development</li>
  	<li>Lisa Bowling, VP for Advancement and University Relations, UMW</li>
  	<li>Kerry Devine, City Council Member – At-Large and College Heights Resident</li>
  	<li>Tim Duffy, City Council Member, Ward 3</li>
@@ -25,7 +26,6 @@ The committee consists of the following members:
  	<li>Charyl Ferguson, Association Manager, Village of Idlewild</li>
  	<li>Matt Good, Student Government Association, President, UMW</li>
  	<li>Michael Hall, Chief, University of Mary Washington Police</li>
- 	<li>Earl Hardy, College Hill Owners Association, President</li>
  	<li>Crystal Hill, Fredericksburg City Police Department</li>
  	<li>Sara Irby, Trench Hill Condominium Association</li>
  	<li>Sabrina Johnson, VP for Equity and Access/Chief Diversity Officer, UMW</li>
@@ -35,6 +35,7 @@ The committee consists of the following members:
  	<li>Juliette Landphair, Vice President for Student Affairs, UMW</li>
  	<li>Brian Layton, Fredericksburg City Police Patrol Division Commander</li>
  	<li>Carl Little, Maury Neighborhood Association President</li>
+ 	<li>Stefanie Lucas-Waverly, Title IX Coordinator</li>
  	<li>Jeff McClurken, Chief of Staff &amp; Clerk of the Board, UMW</li>
  	<li>Paul Messplay, VP for Administration and Finance &amp; Chief Financial Officer, UMW</li>
  	<li>Nina Mikhalevsky, Provost, UMW</li>
