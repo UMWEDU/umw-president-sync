@@ -60,11 +60,11 @@ The committee consists of the following members:
 </ul>
 <h2>Meeting Minutes</h2>
 <ul>
- 	<li><a href="/president/wp-content/uploads/sites/37/2013/05/Leadership-Council-Minutes-February-20-2013.pdf" target="_blank" rel="noopener">February 20, 2013</a></li>
- 	<li><a href="/president/wp-content/uploads/sites/37/2013/05/Leadership-Council-Meeting-Minutes-March-13-2013.pdf" target="_blank" rel="noopener">March 13, 2013</a></li>
- 	<li><a href="/president/wp-content/uploads/sites/37/2013/05/Leadership-Council-Meeting-Minutes-April-24-2013.pdf" target="_blank" rel="noopener">April 24, 2013</a></li>
- 	<li><a href="/president/wp-content/uploads/sites/37/2013/10/Leadership-Council-Meeting-Minutes-October-16-2013.pdf" target="_blank" rel="noopener">October 16, 2013</a></li>
- 	<li><a href="/president/wp-content/uploads/sites/37/2014/04/Leadership-Council-Meeting-Minutes-April-16-2014.pdf" target="_blank" rel="noopener">April 16, 2014</a></li>
+ 	<li><a href="/president/wp-content/uploads/sites/37/2013/05/Leadership-Council-Minutes-February-20-2013.pdf" target="_blank" rel="noopener noreferrer">February 20, 2013</a></li>
+ 	<li><a href="/president/wp-content/uploads/sites/37/2013/05/Leadership-Council-Meeting-Minutes-March-13-2013.pdf" target="_blank" rel="noopener noreferrer">March 13, 2013</a></li>
+ 	<li><a href="/president/wp-content/uploads/sites/37/2013/05/Leadership-Council-Meeting-Minutes-April-24-2013.pdf" target="_blank" rel="noopener noreferrer">April 24, 2013</a></li>
+ 	<li><a href="/president/wp-content/uploads/sites/37/2013/10/Leadership-Council-Meeting-Minutes-October-16-2013.pdf" target="_blank" rel="noopener noreferrer">October 16, 2013</a></li>
+ 	<li><a href="/president/wp-content/uploads/sites/37/2014/04/Leadership-Council-Meeting-Minutes-April-16-2014.pdf" target="_blank" rel="noopener noreferrer">April 16, 2014</a></li>
  	<li><a href="/president/wp-content/uploads/sites/37/2012/04/Leadership-Council-Meeting-Minutes-June-17-2015.pdf">December 17, 2014</a></li>
  	<li><a href="/president/wp-content/uploads/sites/37/2012/04/Leadership-Council-Meeting-Minutes-June-17-2015.pdf">June 17, 2015</a></li>
  	<li><a href="/president/wp-content/uploads/sites/37/2012/04/Presidents-Leadership-Council-Meeting-Minutes-February-17-2016.pdf">September 23, 2015</a></li>
