@@ -31,19 +31,20 @@ The committee consists of the following members:
  	<li>Rosemary Arneson, University Librarian</li>
  	<li>Brian Baker, Executive Director, Economic Development</li>
  	<li>Anna Billingsley, Associate VP of University Relations</li>
+ 	<li>Paul Binkley, Executive Director, Career &amp; Professional Development</li>
  	<li>Audrey Burges, Assistant Attorney General</li>
  	<li>Patrick Catullo, Interim Athletic Director</li>
  	<li>Hall Cheshire, Chief Information Officer</li>
  	<li>Dana Hall, Associate Professor, Athletics, Health, Physical Education</li>
  	<li>Michael Hall, UMW Chief of Police</li>
- 	<li>J. Scott Jones, Dahlgren Campus Site Director</li>
  	<li>Peter Kelly, Dean, College of Education</li>
- 	<li>Pam Lowery, President SAC &amp; Director of Tech in Prof. Develop. &amp; HR Cons</li>
+ 	<li>Stefanie Lucas-Waverly, Title IX Coordinator</li>
+ 	<li>Leslie Martin, Chair, Center for Community Engagement</li>
  	<li>Davis McCrory, Director of Internal Audit</li>
  	<li>Keith Mellinger, Dean, College of Arts &amp; Sciences</li>
- 	<li>Marissa Miller, Interim Title IX Coordinator</li>
  	<li>John Morello, Associate Provost for Academic Affairs</li>
  	<li>Tim O’Donnell, Associate Provost for Academic Engagement and Student Success</li>
+ 	<li>Christy Pack, President, SAC/Director of Graduate Admissions</li>
  	<li>Lynne Richardson, Dean, College of Business</li>
  	<li>Debra Schleef, Assoc. Provost Institutional Analysis &amp; Effectiveness</li>
  	<li>Kenneth Steen, Associate VP University Advancement for Alumni Relations</li>
@@ -54,20 +55,5 @@ The committee consists of the following members:
 </ul>
 <h3>Faculty Council Representatives:</h3>
 <ul>
- 	<li>Jackie Gallagher, UFC Chair</li>
- 	<li>Anand Rao, UFC Chair-Elect</li>
- 	<li>Dave Henderson, UFC Secretary</li>
-</ul>
-<h2>Meeting Minutes</h2>
-<ul>
- 	<li><a href="/president/wp-content/uploads/sites/37/2013/05/Leadership-Council-Minutes-February-20-2013.pdf" target="_blank" rel="noopener noreferrer">February 20, 2013</a></li>
- 	<li><a href="/president/wp-content/uploads/sites/37/2013/05/Leadership-Council-Meeting-Minutes-March-13-2013.pdf" target="_blank" rel="noopener noreferrer">March 13, 2013</a></li>
- 	<li><a href="/president/wp-content/uploads/sites/37/2013/05/Leadership-Council-Meeting-Minutes-April-24-2013.pdf" target="_blank" rel="noopener noreferrer">April 24, 2013</a></li>
- 	<li><a href="/president/wp-content/uploads/sites/37/2013/10/Leadership-Council-Meeting-Minutes-October-16-2013.pdf" target="_blank" rel="noopener noreferrer">October 16, 2013</a></li>
- 	<li><a href="/president/wp-content/uploads/sites/37/2014/04/Leadership-Council-Meeting-Minutes-April-16-2014.pdf" target="_blank" rel="noopener noreferrer">April 16, 2014</a></li>
- 	<li><a href="/president/wp-content/uploads/sites/37/2012/04/Leadership-Council-Meeting-Minutes-June-17-2015.pdf">December 17, 2014</a></li>
- 	<li><a href="/president/wp-content/uploads/sites/37/2012/04/Leadership-Council-Meeting-Minutes-June-17-2015.pdf">June 17, 2015</a></li>
- 	<li><a href="/president/wp-content/uploads/sites/37/2012/04/Presidents-Leadership-Council-Meeting-Minutes-February-17-2016.pdf">September 23, 2015</a></li>
- 	<li><a href="/president/wp-content/uploads/sites/37/2012/04/Presidents-Leadership-Council-Meeting-Minutes-February-17-2016.pdf">February 17, 2016</a></li>
- 	<li><a href="/president/wp-content/uploads/sites/37/2012/04/Presidents-Leadership-Council-Meeting-Minutes-March-23-2016.pdf">March 23, 2016</a></li>
+ 	<li>Anand Rao, UFC Chair</li>
 </ul>
