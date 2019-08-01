@@ -24,7 +24,6 @@ The committee consists of the following members:
  	<li>Nina Mikhalevsky, Provost</li>
  	<li>Jeffrey W. Rountree, Chief Executive Officer, UMW Foundation</li>
  	<li>Kimberley Buster-Williams, Vice President for Enrollment Management</li>
- 	<li></li>
 </ul>
 <h3>Appointments:</h3>
 <ul>
@@ -37,6 +36,7 @@ The committee consists of the following members:
  	<li>Hall Cheshire, Chief Information Officer</li>
  	<li>Dana Hall, Associate Professor, Athletics, Health, Physical Education</li>
  	<li>Michael Hall, UMW Chief of Police</li>
+ 	<li>Malcolm Holmes, Director of University Marketing</li>
  	<li>Peter Kelly, Dean, College of Education</li>
  	<li>Stefanie Lucas-Waverly, Title IX Coordinator</li>
  	<li>Leslie Martin, Chair, Center for Community Engagement</li>
