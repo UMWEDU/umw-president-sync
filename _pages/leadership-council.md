@@ -37,6 +37,7 @@ The committee consists of the following members:
  	<li>Dana Hall, Associate Professor, Athletics, Health, Physical Education</li>
  	<li>Michael Hall, UMW Chief of Police</li>
  	<li>Malcolm Holmes, Director of University Marketing</li>
+ 	<li>Scott Jones, Dahlgren Campus Site Director</li>
  	<li>Peter Kelly, Dean, College of Education</li>
  	<li>Stefanie Lucas-Waverly, Title IX Coordinator</li>
  	<li>Leslie Martin, Chair, Center for Community Engagement</li>
@@ -56,4 +57,6 @@ The committee consists of the following members:
 <h3>Faculty Council Representatives:</h3>
 <ul>
  	<li>Anand Rao, UFC Chair</li>
+ 	<li>Andrew Dolby, UFC Vice Chair</li>
+ 	<li>Kashef Majid, UFC Secretary</li>
 </ul>
