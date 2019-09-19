@@ -1,32 +1,11 @@
 ---
-ID: 35
-post_title: President’s Cabinet
-author: Emily
+ID: 10
+post_title: Cabinet
+author: Shelley Keith
 post_excerpt: ""
 layout: page
-permalink: >
-  http://www.umw.edu/president/presidential-committees/cabinet/
+permalink: http://www.umw.edu/president/cabinet/
 published: true
-post_date: 2016-05-25 13:10:44
+post_date: 2016-05-09 09:08:50
 ---
-<h2>Committee Charge</h2>
-The President’s Cabinet advises the President on matters of university business during weekly meetings.
-<h2>Committee Membership</h2>
-The committee consists of the following members:
-<ul>
- 	<li>Troy D. Paino, President</li>
- 	<li>Lisa Bowling, Vice President for Advancement and University Relations</li>
- 	<li>Sabrina Johnson, Vice President for Equity and Access and Chief Diversity Officer</li>
- 	<li>Juliette Landphair, Vice President for Student Affairs</li>
- 	<li>Jeff McClurken, Chief of Staff and Clerk of the Board of Visitors</li>
- 	<li>Paul Messplay, Vice President for Administration and Finance and Chief Financial Officer</li>
- 	<li>Nina Mikhalevsky, Provost</li>
- 	<li>Jeffrey W. Rountree, Chief Executive Officer, UMW Foundation</li>
- 	<li>Kimberley Buster-Williams, Vice President for Enrollment Management</li>
-</ul>
-<h2>President’s Cabinet Meeting Agendas and Minutes</h2>
-<ul>
- 	<li><a href="https://www.umw.edu/president/presidential-committees/cabinet/presidents-cabinet-meeting-agendas/">Meeting Agendas</a></li>
- 	<li><a href="https://www.umw.edu/president/presidential-committees/cabinet/historical-minutes/">Historical Minutes</a></li>
-</ul>
-&nbsp;
+[wp_rss_retriever url="http://www.umw.edu/directory/atom-feed/tagged-employees/?relationship-tags=cabinet&date=2017-03-22" items="12" excerpt="0" source="false" date="false" read_more="false" new_window="true" title="false" thumbnail="false" cache="7200" content="true"]
