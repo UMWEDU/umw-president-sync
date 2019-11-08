@@ -14,18 +14,17 @@ This committee is charged with advising the President on how the University of M
 <h2>Committee Members</h2>
 <ul>
  	<li>Munira Salim Abdalla</li>
- 	<li>Kesha Phipps-Adams</li>
+ 	<li>Keisha Adams</li>
  	<li>Deborah Banzon</li>
  	<li>Reverend Baron Braswell</li>
  	<li>The Honorable Pamela E. Bridgewater</li>
  	<li>Dr. Marci Catlett</li>
  	<li>Reverend Dr. Aaron L. Dobynes, Sr.</li>
  	<li>Shah Hilal</li>
- 	<li>Sabrina Johnson, Vice President of Equity and Access &amp; Chief Diversity Officer, UMW Staff Liaison</li>
+ 	<li>Sabrina Johnson, UMW VP of Equity and Access &amp; Chief Diversity Officer, UMW Staff Liaison</li>
  	<li>Pamela Jones</li>
- 	<li>Troy D. Paino, President, UMW</li>
  	<li>Ameeta Vashee Rajagopal</li>
- 	<li>Xavier R. Richardson, MBA</li>
+ 	<li>Xavier R. Richardson</li>
  	<li>Clarence A. Robinson</li>
  	<li>Alda White, Chair</li>
  	<li>Deirdre Powell White '91</li>
