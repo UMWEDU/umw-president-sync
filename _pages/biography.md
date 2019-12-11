@@ -8,7 +8,7 @@ permalink: http://www.umw.edu/president/biography/
 published: true
 post_date: 2016-05-08 11:26:51
 ---
-<img class="alignleft size-medium wp-image-42" src="http://www.umw.edu/president/wp-content/uploads/sites/37/2016/06/tpaino-239x300.jpg" alt="UMW President Troy Paino" width="239" height="300" />Dr. Troy D. Paino took office as the tenth president of the University of Mary Washington, effective July 1, 2016. A personable, student-focused leader, Dr. Paino is deeply committed to Mary Washington’s public liberal arts and sciences mission of providing academic excellence and social uplift in equal measure.
+<img class="wp-image-46385 size-medium alignleft" src="http://www.umw.edu/president/wp-content/uploads/sites/37/2019/12/Troy-D-239x300.jpg" alt="Troy Paino" width="239" height="300" />Dr. Troy D. Paino took office as the tenth president of the University of Mary Washington, effective July 1, 2016. A personable, student-focused leader, Dr. Paino is deeply committed to Mary Washington’s public liberal arts and sciences mission of providing academic excellence and social uplift in equal measure.
 
 He came to UMW after a six-year stint as president of another public liberal arts institution: Truman State University in Kirksville, Missouri. His priorities at Mary Washington have been:
 <ul>
