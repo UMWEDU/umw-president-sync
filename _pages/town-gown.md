@@ -19,6 +19,7 @@ The committee consists of the following members:
  	<li>Anna Billingsley, Associate VP for University Relations, UMW</li>
  	<li>Paul Binkley, Executive Director, Career and Professional Development, UMW</li>
  	<li>Lisa Bowling, VP for Advancement and University Relations, UMW</li>
+ 	<li>Sara Branner, President, Trench Hill Condominium Association</li>
  	<li>Ethan Cory, President, Off-Campus Student Association, UMW</li>
  	<li>Kerry Devine, City Council Member – At-Large and College Heights Resident</li>
  	<li>Tim Duffy, City Council Member, Ward 3</li>
@@ -32,7 +33,7 @@ The committee consists of the following members:
  	<li>Dave King, Fredericksburg City Public Works</li>
  	<li>Sarah Kirkpatrick, Public Information Officer, Fredericksburg Police</li>
  	<li>Juliette Landphair, Vice President for Student Affairs, UMW</li>
- 	<li>Brian Layton, Fredericksburg City Police Patrol Division Commander</li>
+ 	<li>Brian Layton, Interim Fredericksburg City Police Chief</li>
  	<li>Carl Little, Maury Neighborhood Association President</li>
  	<li>Stefanie Lucas-Waverly, Title IX Coordinator, UMW</li>
  	<li>Aimee Lynch, Fredericksburg City Police Department</li>
@@ -41,7 +42,6 @@ The committee consists of the following members:
  	<li>Paul Messplay, VP for Administration and Finance &amp; Chief Financial Officer, UMW</li>
  	<li>Nina Mikhalevsky, Provost, UMW</li>
  	<li>Adina Mobin, Student Government Association, Community Relations Committee, UMW</li>
- 	<li>David Nye, Fredericksburg City Police Chief</li>
  	<li>Christine Porter, Director of Transfer and Off-Campus Student Services, UMW</li>
  	<li>Laura Rutledge, Elite Community Management, LLC, Association Manager</li>
  	<li>Kathy Sandor, Director of Business Services, Bookstore, UMW</li>
