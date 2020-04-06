@@ -22,7 +22,6 @@ The committee consists of the following members:
  	<li>Jeff McClurken, Chief of Staff &amp; Clerk of the Board</li>
  	<li>Paul Messplay, Vice President for Administration and Finance &amp; Chief Financial Officer</li>
  	<li>Nina Mikhalevsky, Provost</li>
- 	<li>Jeffrey W. Rountree, Chief Executive Officer, UMW Foundation</li>
  	<li>Kimberley Buster-Williams, Vice President for Enrollment Management</li>
 </ul>
 <h3>Appointments:</h3>
@@ -37,7 +36,7 @@ The committee consists of the following members:
  	<li>Dana Hall, Associate Professor, Athletics, Health, Physical Education</li>
  	<li>Michael Hall, UMW Chief of Police</li>
  	<li>Malcolm Holmes, Director of University Marketing</li>
- 	<li>Scott Jones, Dahlgren Campus Site Director</li>
+ 	<li>Michael Hubbard, Dahlgren Campus Director</li>
  	<li>Peter Kelly, Dean, College of Education</li>
  	<li>Stefanie Lucas-Waverly, Title IX Coordinator</li>
  	<li>Leslie Martin, Chair, Center for Community Engagement</li>
@@ -50,7 +49,6 @@ The committee consists of the following members:
  	<li>Debra Schleef, Assoc. Provost Institutional Analysis &amp; Effectiveness</li>
  	<li>Kenneth Steen, Associate VP University Advancement for Alumni Relations</li>
  	<li>Beth Williams, Executive Director of Human Resources</li>
- 	<li>John Wiltenmuth, Associate VP for Facilities Services</li>
  	<li>Susan Worrell, Special Assistant to the President for University Events</li>
  	<li>Kimberly Young, Executive Director of Continuing/Professional Studies</li>
 </ul>
