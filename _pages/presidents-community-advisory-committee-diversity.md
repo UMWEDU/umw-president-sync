@@ -22,7 +22,7 @@ This committee is charged with advising the President on how the University of M
  	<li>Reverend Dr. Aaron L. Dobynes, Sr.</li>
  	<li>Shah Hilal</li>
  	<li>Sabrina Johnson, UMW VP of Equity and Access &amp; Chief Diversity Officer, UMW Staff Liaison</li>
- 	<li>Pamela Jones</li>
+ 	<li>Pamala Jones</li>
  	<li>Ameeta Vashee Rajagopal</li>
  	<li>Xavier R. Richardson</li>
  	<li>Clarence A. Robinson</li>
