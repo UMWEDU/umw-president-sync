@@ -12,7 +12,12 @@ published: true
 post_date: 2020-08-04 13:39:20
 ---
 <h2>Panel Charge</h2>
-This independent panel was established to fully examine the actions of the UMW Police during the May 31, 2020 Fredericksburg community protests.  The panel will thoroughly review the incident and make recommendations as to how the UMW Police can better align with UMW’s <a href="https://www.umw.edu/about/our-principles-and-values/">community values</a>.
+This independent panel was established to:
+<ul>
+ 	<li>Provide a full and open accounting of the events surrounding the May 31, 2020 protests in Fredericksburg and the role played by UMW Police,</li>
+ 	<li>Identify lessons learned and what reforms, if any, need to be made to ensure that the policies, practices, and procedures of the UMW Police are in alignment with UMW’s <a href="https://www.umw.edu/about/our-principles-and-values/">Statement of Community Values (ASPIRE)</a>, and</li>
+ 	<li>Determine in what way should we reframe the role of UMW Police in light of the current climate on campus and in Fredericksburg, Virginia, and the country.</li>
+</ul>
 <h2>Panel Membership</h2>
 The panel consists of the following members:
 <ul>
