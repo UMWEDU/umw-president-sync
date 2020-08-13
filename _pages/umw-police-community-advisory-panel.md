@@ -34,3 +34,7 @@ The panel consists of the following members:
  	<li>Michael Hall, UMW Chief of Police and Ex Officio Member of CAP</li>
  	<li>Davis McCrory, UMW Internal Auditor and Ex Officio Member of CAP</li>
 </ul>
+<h2>Panel News</h2>
+<ul>
+ 	<li>July 28, 2020:  UMW President, Dr. Troy Paino, appointed UMW Chief of Police, Michael Hall, as an ex-officio member of the panel.</li>
+</ul>
