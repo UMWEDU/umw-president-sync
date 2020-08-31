@@ -38,3 +38,4 @@ The panel consists of the following members:
 <ul>
  	<li>July 28, 2020:  UMW President, Dr. Troy Paino, appointed UMW Chief of Police, Michael Hall, as an ex-officio member of the panel.</li>
 </ul>
+[gravityform id="6" title="true" description="true"]
