@@ -24,6 +24,7 @@ The panel consists of the following members:
  	<li>Rhonda VanLowe, UMW Board of Visitors and Chair of CAP</li>
  	<li>Zoya Ahmed, ‘18 Alumna</li>
  	<li>Allida Black, UMW Board of Visitors</li>
+ 	<li>Bridget Brew, UMW Assistant Professor, Sociology &amp; Anthropology</li>
  	<li>Claire Cole Curcio, Community Member</li>
  	<li>Arin Doerfler, UMW Senior Accountant</li>
  	<li>Maya Jenkins, UMW student</li>
