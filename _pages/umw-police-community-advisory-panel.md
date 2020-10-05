@@ -3,7 +3,7 @@ ID: 46407
 post_title: >
   UMW Police Community Advisory Panel
   (CAP)
-author: Paula Zero
+author: kflanaga
 post_excerpt: ""
 layout: page
 permalink: >
