@@ -38,6 +38,6 @@ The panel consists of the following members:
 <h2>Panel News</h2>
 <ul>
  	<li>July 28, 2020:  UMW President, Dr. Troy Paino, appointed UMW Chief of Police, Michael Hall, as an Ex Officio member of the panel.</li>
- 	<li>September 7, 2020: President Troy Paino appointed Dr. Bridget Brew, Assistant Professor of Sociology and Anthropology to the panel.</li>
+ 	<li>September 7, 2020: President Troy Paino appointed Dr. Bridget Brew, Assistant Professor of Sociology and Anthropology, to the panel.</li>
 </ul>
 [gravityform id="6" title="true" description="true"]
