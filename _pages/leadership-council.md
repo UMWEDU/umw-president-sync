@@ -53,7 +53,7 @@ The committee consists of the following members:
 </ul>
 <h3>Faculty Council Representatives:</h3>
 <ul>
- 	<li>Anand Rao, UFC Chair</li>
- 	<li>Andrew Dolby, UFC Vice Chair</li>
- 	<li>Kashef Majid, UFC Secretary</li>
+ 	<li>Andrew Dolby, UFC Chair</li>
+ 	<li>Ken Machande, UFC Vice Chair</li>
+ 	<li>Janine Davis, UFC Secretary</li>
 </ul>
