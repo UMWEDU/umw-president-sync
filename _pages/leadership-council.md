@@ -33,7 +33,6 @@ The committee consists of the following members:
  	<li>Audrey Burges, Assistant Attorney General</li>
  	<li>Patrick Catullo, Interim Athletic Director</li>
  	<li>Hall Cheshire, Chief Information Officer</li>
- 	<li>Dana Hall, Associate Professor, Athletics, Health, Physical Education</li>
  	<li>Michael Hall, UMW Chief of Police</li>
  	<li>Malcolm Holmes, Director of University Marketing</li>
  	<li>Michael Hubbard, Dahlgren Campus Director</li>
@@ -44,7 +43,7 @@ The committee consists of the following members:
  	<li>Keith Mellinger, Dean, College of Arts &amp; Sciences</li>
  	<li>John Morello, Associate Provost for Academic Affairs</li>
  	<li>Tim O’Donnell, Associate Provost for Academic Engagement and Student Success</li>
- 	<li>Christy Pack, President, SAC/Director of Graduate Admissions</li>
+ 	<li>Michelle Pickham, President, SAC/Contract Officer</li>
  	<li>Lynne Richardson, Dean, College of Business</li>
  	<li>Debra Schleef, Assoc. Provost Institutional Analysis &amp; Effectiveness</li>
  	<li>Kenneth Steen, Associate VP University Advancement for Alumni Relations</li>
