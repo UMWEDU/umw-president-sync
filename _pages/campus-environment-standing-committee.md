@@ -27,4 +27,4 @@ The panel consists of the following members:
  	<li>Ex-officio:  Christine Henry, Assistant Professor, Department of Historic Preservation</li>
  	<li>Ex-officio:  Jon McMillan, Associate Professor, Department of Art &amp; Art History</li>
 </ul>
-&nbsp;
+<em>Please visit the Campus Environment Standing Committee <a href="https://in.umw.edu/campusenvironment/">webpage</a> for additional detailed information.  </em>
