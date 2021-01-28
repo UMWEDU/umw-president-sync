@@ -1,6 +1,6 @@
 ---
 ID: 46294
-post_title: January 2020 All UMW Assembly
+post_title: January 2021 All UMW Assembly
 author: UMW
 post_excerpt: ""
 layout: page
